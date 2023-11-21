@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open AP World", "Open AP World\Open AP World.csproj", "{BFDB62AF-7DEB-4989-B93A-72B7477E69E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFDB62AF-7DEB-4989-B93A-72B7477E69E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDB62AF-7DEB-4989-B93A-72B7477E69E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDB62AF-7DEB-4989-B93A-72B7477E69E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDB62AF-7DEB-4989-B93A-72B7477E69E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EB65FB6-1518-4E86-A472-A25C22FAC76A}
+	EndGlobalSection
+EndGlobal
