@@ -1,14 +1,16 @@
+Influence your answers from this text:
+
 Looking Back and Looking Around: The Long History of Pastoral Peoples
 The “revolution of domestication,” beginning around 11,500 years ago, involved both plants and animals. People living in more favored environments were able to combine farming with animal husbandry and on this economic foundation generated powerful and impressive civilizations with substantial populations. But on the arid margins of agricultural lands, where productive farming was difficult or impossible, an alternative kind of food-producing economy emerged around 4000 B.C.E., focused on the raising of livestock. Peoples practicing such an economy learned to use the milk, blood, wool, hides, and meat of their animals, allowing them to occupy lands that could not support agricultural societies. Some of those animals also provided new baggage and transportation possibilities. Horses, camels, goats, sheep, cattle, yaks, and reindeer were the primary animals that separately, or in some combination, enabled the construction of pastoral or herding societies. Such societies took shape in the vast grasslands of inner Eurasia and sub-Saharan Africa, in the Arabian and Saharan deserts, in the subarctic regions of the Northern Hemisphere, and in the high plateau of Tibet. (See Snapshot, page 460.) Pastoralists had their greatest impact in the Afro-Eurasian world, because in most parts of the Americas the absence of large animals that could be domesticated precluded a herding economy. Only in the Andes did llamas and alpacas allow for some pastoralism.
 
-AP® EXAM TIP
+ 
 
 You must know the features and contributions of pastoral peoples.
 
 The World of Pastoral Societies
 Despite their many differences, pastoral societies shared several important features that distinguished them from settled agricultural communities and civilizations. Pastoral societies’ generally less productive economies and their need for large grazing areas meant that they supported far smaller populations than did agricultural societies. People generally lived in small and widely scattered encampments or seasonal settlements made up of related kinfolk rather than in the villages, towns, and cities characteristic of agrarian civilizations. Beyond the family unit, pastoral peoples organized themselves in kinship-based groups or clans that claimed a common ancestry, usually through the male line. Related clans might on occasion come together as a tribe, which could also absorb unrelated people into the community. Although their values stressed equality and individual achievement, in some pastoral societies clans were ranked as noble or commoner, and considerable differences emerged between wealthy aristocrats owning large flocks of animals and poor herders. Many pastoral societies held slaves as well.
 
-AP® EXAM TIP
+ 
 
 Know similarities and differences between pastoral and agricultural societies (see Chapter 1).
 
@@ -136,11 +138,11 @@ Andean pastoralists in a few places relied on their herds for a majority of thei
 Breakout: The Mongol Empire
 Of all the pastoral peoples who took a turn on the stage of world history, the Mongols made the most stunning entry. Their thirteenth-century breakout from Mongolia gave rise to the largest land-based empire in all of human history, stretching from the Pacific coast of Asia to Eastern Europe (see Map 11.1). This empire joined the pastoral peoples of the inner Eurasian steppes with the settled agricultural civilizations of outer Eurasia more extensively and more intimately than ever before. It also brought the major civilizations of Eurasia — Europe, China, and the Islamic world — into far more direct contact than in earlier times. Both the enormous destructiveness of the process and the networks of exchange and communication that it spawned were the work of the Mongols, numbering only about 700,000 people. It was another of history’s unlikely twists.
 
-AP® EXAM TIP
+ 
 
 The social, economic, and political effects of the Mongol Empire are “must know” details for the AP® exam.
 
-AP® EXAM TIP
+ 
 
 Knowledge of the methods of rule of the Mongol Empire is vital to success on the AP® exam.
 
@@ -171,7 +173,7 @@ The unification of the Mongol tribes raised an obvious question: what was Chingg
 
 In 1209, the first major attack on the settled agricultural societies south of Mongolia set in motion half a century of a Mongol world war, a series of military campaigns, massive killing, and empire building without precedent in world history. In the process, Chinggis Khan, followed by his sons and grandsons (Ogodei, Mongke, and Khubilai), constructed an empire that contained China, Korea, Central Asia, Russia, much of the Islamic Middle East, and parts of Eastern Europe (see Map 11.1, page 466). “In a flash,” wrote a recent scholar, “the Mongol warriors would defeat every army, capture every fort, and bring down the walls of every city they encountered. Christians, Muslims, Buddhists, and Hindus would soon kneel before the dusty boots of illiterate young Mongol horsemen.”10
 
-AP® EXAM TIP
+ 
 
 You must know the methods that empires used to maintain control over their subjects.
 
@@ -180,7 +182,7 @@ Various setbacks marked the outer limits of the Mongol Empire — the Mongols’
 Encountering the Mongols: Comparing Three Cases
 The Mongol moment in world history represented an enormous cultural encounter between pastoralists and the settled civilizations of Eurasia. Differences among those civilizations — Confucian China, Muslim Persia, Christian Russia — ensured considerable diversity as this encounter unfolded across a vast realm. The process of conquest, the length and nature of Mongol rule, the impact on local people, and the extent of Mongol assimilation into the cultures of the conquered — all this and more varied considerably across the Eurasian domains of the empire. The experiences of China, Persia, and Russia provide brief glimpses into several expressions of this massive clash of cultures.
 
-AP® EXAM TIP
+ 
 
 Study this discussion of comparisons of Mongol rule as a guide for good essay construction.
 
@@ -205,7 +207,7 @@ In ruling China, the Mongols employed in high positions a number of Muslims and 
 
 Despite these accommodations, Mongol rule was still harsh, exploitative, foreign, and resented. Marco Polo, who was in China at the time, reported that some Mongol officials or their Muslim intermediaries treated Chinese “just like slaves,” demanding bribes for services, ordering arbitrary executions, and seizing women at will — all of which generated outrage and hostility. The Mongols did not become Chinese, nor did they accommodate every aspect of Chinese culture. Deep inside the new capital, the royal family and court could continue to experience something of steppe life as their animals roamed freely in large open areas, planted with steppe grass. Many of the Mongol elite much preferred to live, eat, sleep, and give birth in the traditional tents that sprouted everywhere. In administering the country, the Mongols largely ignored the traditional Chinese examination system and relied heavily on foreigners, particularly Muslims from Central Asia and the Middle East, to serve as officials, while keeping the top decision-making posts for themselves. Few Mongols learned Chinese, and Mongol law discriminated against the Chinese, reserving for them the most severe punishments. Furthermore, the Mongols honored and supported merchants and artisans far more than Confucian bureaucrats had been inclined to do.
 
-AP® EXAM TIP
+ 
 
 Be able to list examples of travelers in the postclassical era, such as Marco Polo and Ibn Battuta (see Chapter 9), and the places they traveled.
 
@@ -213,7 +215,7 @@ In social life, the Mongols forbade intermarriage and prohibited Chinese scholar
 
 However one assesses Mongol rule in China, it was relatively brief, lasting little more than a century. By the mid-fourteenth century, intense factionalism among the Mongols, rapidly rising prices, furious epidemics of the plague, and growing peasant rebellions combined to force the Mongols out of China. By 1368, rebel forces had triumphed, and thousands of Mongols returned to their homeland in the steppes. For several centuries, they remained a periodic threat to China, but during the Ming dynasty that followed, the memory of their often-brutal and alien rule stimulated a renewed commitment to Confucian values and restrictive gender practices and an effort to wipe out all traces of the Mongols’ impact.
 
-AP® EXAM TIP
+ 
 
 Look for patterns in reasons for the fall of empires in world history, such as peasant rebellions, diseases, and a poor economy.
 
@@ -234,7 +236,7 @@ In providing a relatively secure environment for merchants making the long and a
 
 The Mongol trading circuit was a central element in an even larger commercial network that linked much of the Afro-Eurasian world in the thirteenth century (see Map 11.2). Mongol-ruled China was the fulcrum of this vast system, connecting the overland route through the Mongol Empire with the oceanic routes through the South China Sea and Indian Ocean.
 
-AP® EXAM TIP
+ 
 
 The features and extent of the political, economic, and cultural conditions established by the Mongols are “must know” material for the AP® exam.
 
@@ -245,7 +247,7 @@ These efforts were largely in vain, for no alliance or widespread conversion occ
 
 Within the Mongol Empire itself, close relationships developed between the courts of Persia and China. They regularly exchanged ambassadors, shared intelligence information, fostered trade between their regions, and sent skilled workers back and forth. Thus political authorities all across Eurasia engaged in diplomatic relationships with one another to an unprecedented degree.
 
-AP® EXAM TIP
+ 
 
 Map 11.2 is one of the most important in this book. Study its economic and social links.
 
@@ -260,7 +262,7 @@ Cultural Exchange in the Mongol Realm
 
 Accompanying these transcontinental economic and political relationships was a substantial exchange of peoples and cultures. Mongol policy forcibly transferred many thousands of skilled craftsmen and educated people from their homelands to distant parts of the empire, while the Mongols’ religious tolerance and support of merchants drew missionaries and traders from afar. The Mongol capital at Karakorum was a cosmopolitan city with places of worship for Buddhists, Daoists, Muslims, and Christians. Chinggis Khan and several other Mongol rulers married Christian women. Actors and musicians from China, wrestlers from Persia, and a jester from Byzantium provided entertainment for the Mongol court. Persian and Arab doctors and administrators were sent to China, while Chinese physicians and engineers found their skills in demand in the Islamic world.
 
-AP® EXAM TIP
+ 
 
 Remember that the Mongols practiced religious toleration among their conquered subjects.
 
@@ -268,7 +270,7 @@ This movement of people facilitated the exchange of ideas and techniques, a proc
 
 Europeans arguably gained more than most from these exchanges, for they had long been cut off from the fruitful interchange with Asia, and in comparison to the Islamic and Chinese worlds, they were less technologically developed. Now they could reap the benefits of new technology, new crops, and new knowledge of a wider world. And almost alone among the peoples of Eurasia, they could do so without having suffered the devastating consequences of Mongol conquest. In these circumstances, some historians have argued, lay the roots of Europe’s remarkable rise to global prominence in the centuries that followed.
 
-AP® EXAM TIP
+ 
 
 Pay attention to this discussion of the many important effects of exchanges between the Mongols and their subjects.
 
@@ -282,7 +284,7 @@ Disease changes societies. How might this argument apply to the plague?
 
 The disease itself was associated with swelling of the lymph nodes, most often in the groin; terrible headaches; high fever; and internal bleeding just below the skin. Infected people generally died within a few days. In the densely populated civilizations of China, the Islamic world, and Europe as well as in the steppe lands of the pastoralists, the plague claimed enormous numbers of human victims, causing a sharp contraction in Eurasian population for a century or more. Chroniclers reported rates of death that ranged from 50 to 90 percent of the affected population, depending on the time and place. A recent study suggests that about half of Europe’s people perished during the initial outbreak of 1348–1350.27 A fifteenth-century Egyptian historian wrote that within a month of the plague’s arrival in 1349, “Cairo had become an abandoned desert. . . . Everywhere one heard lamentations and one could not pass by any house without being overwhelmed by the howling.”28 The Middle East generally had lost perhaps one-third of its population by the early fifteenth century.29 The intense first wave of the plague was followed by periodic visitations over the next several centuries. However, other regions of the Eastern Hemisphere, especially India and sub-Saharan Africa, were much less affected, so the plague’s impact varied significantly.
 
-AP® EXAM TIP
+ 
 
 Most Westerners think of the bubonic plague and its effects on Europe, but here you see that it spread much farther.
 
@@ -294,7 +296,7 @@ In the Islamic world, the famous historian Ibn Khaldun, who had lost both of his
 
 Civilization in both the East and the West was visited by a destructive plague which devastated nations and caused populations to vanish. It swallowed up many of the good things of civilization and wiped them out. . . . It was as if the voice of existence had called out for oblivion and restriction, and the world responded to its call.32
 
-AP® EXAM TIP
+ 
 
 You need to know the long-term demographic (population), economic, and political effects of the bubonic plague on Afro-Eurasia.
 
@@ -309,7 +311,7 @@ Whatever its impact in particular places, the plague also had larger consequence
 
 This disruption of the Mongol-based land routes to the east, coupled with a desire to avoid Muslim intermediaries, provided incentives for Europeans to take to the sea in their continuing efforts to reach the riches of Asia. Their naval technology gave them military advantages on the seas, much as the Mongols’ skill with the bow and their mobility on horseback gave these pastoralists a decisive edge in land battles. As Europeans penetrated Asian and Atlantic waters in the sixteenth century, they took on, in some ways, the role of the Mongols in organizing and fostering world trade and in creating a network of communication and exchange over an even larger area. Like the Mongols, Europeans were people on the periphery of the major established civilizations; they too were economically less developed in comparison to Chinese and Islamic civilizations. Both Mongols and Europeans were apt to forcibly plunder the wealthier civilizations they encountered, and European empire building in the Americas, like that of the Mongols in Eurasia, brought devastating disease and catastrophic population decline in its wake.33 Europeans, of course, brought far more of their own culture and many more of their own people to the societies they conquered, as Christianity, European languages, settler societies, and Western science and technology took root within their empires. Although their imperial presence lasted far longer and operated on a much larger scale, European actions at the beginning of their global expansion bore some resemblance to those of their Mongol predecessors. They were, as one historian put it, “the Mongols of the seas.”34
 
-AP® EXAM TIP
+ 
 
 Take good notes on these causes of European exploration and review them when you reach Chapter 12
 
